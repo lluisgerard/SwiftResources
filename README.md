@@ -10,7 +10,10 @@ This is not intended to be a long list of resources but rather a short list of f
 ## Libraries
 
 *Auto Layout*
-* [SnapKit](https://github.com/SnapKit/SnapKit)
+* [SnapKit](https://github.com/SnapKit/SnapKit) I've been using Masonry (Objective-C) since I started with iOS, building my views directly in code. SnapKit is the evolution of Masonry to Swift.
+
+*Grand Central Dispatch*
+* [Async](https://github.com/duemunk/Async) I always built my own helpers for GCD but this approach seems cleaner.
 
 ## Dependency Managers
 * [Carthage](https://github.com/Carthage/Carthage) I still haven't tried it but it sounds promising, you can see [@jspahrsummers](https://github.com/jspahrsummers) himself here: http://realm.io/news/swift-dependency-management-with-carthage/
