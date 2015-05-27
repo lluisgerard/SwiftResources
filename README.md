@@ -15,6 +15,9 @@ This is not intended to be a long list of resources but rather a short list of f
 *Grand Central Dispatch*
 * [Async](https://github.com/duemunk/Async) I always built my own helpers for GCD but this approach seems cleaner.
 
+*Networking*
+* [Moya](https://github.com/ashfurrow/Moya) Network abstraction layer. I will try it on my next app.
+
 ## Dependency Managers
 * [Carthage](https://github.com/Carthage/Carthage) I still haven't tried it but it sounds promising, you can see [@jspahrsummers](https://github.com/jspahrsummers) himself here: http://realm.io/news/swift-dependency-management-with-carthage/
 * [CocoaPods](https://cocoapods.org) Is very nice and useful but I never really liked the mechanism. I'd spent hours trying to fix linking problems and going from Xcode to CocoaPods trying to figure out how was to blame for. That's why I think that Carthage is something worth trying.
